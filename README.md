@@ -153,7 +153,7 @@ Project ini menggunakan data publik PODES 2024 dari BPS.
 
 ## 👥 Contact
 
-- **Developer**: Haikal Thoriq
+- **Developer**: Haikal Thoriq Athaya
 - **GitHub**: [@haikalthrq](https://github.com/haikalthrq)
 - **Repository**: [podes-v3](https://github.com/haikalthrq/podes-v3)
 
